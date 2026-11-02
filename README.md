@@ -35,6 +35,12 @@ We report this negative result deliberately. Our recommendation is that any meta
 
 Full tables are in `results/<dataset>/tables.json` and `analysis.txt`. The figures are in `figures/`.
 
+**Results archive.** The `results/` folder holds 1,664 small files: per-subject predictions, logs, and tables. It is distributed as a single archive, `results.zip`. Unzip it in the repository root before running `analyze_results.py` or `make_figs.py`:
+
+```bash
+unzip results.zip
+```
+
 ## Protocol
 
 | Item | Setting |
