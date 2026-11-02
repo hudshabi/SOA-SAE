@@ -134,4 +134,4 @@ If you use this code, please cite the paper (citation details will be added upon
 
 ## License
 
-Add a license file before making the repository public (MIT is a common choice for research code).
+Released under the MIT License (see `LICENSE`).
